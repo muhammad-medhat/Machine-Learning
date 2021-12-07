@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+enron_mail_20150507.tar.gz
+final_project/

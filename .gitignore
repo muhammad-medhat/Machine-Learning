@@ -130,3 +130,8 @@ dmypy.json
 
 enron_mail_20150507.tar.gz
 final_project/
+
+gh-ssh-key
+gh-ssh-key.pub
+tools/
+
